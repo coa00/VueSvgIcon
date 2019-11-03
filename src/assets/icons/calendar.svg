@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 25">
+    <path d="M22.392 25H2.608A2.611 2.611 0 0 1 0 22.392V4.693a2.613 2.613 0 0 1 2.609-2.61H22.39A2.613 2.613 0 0 1 25 4.693v17.7A2.611 2.611 0 0 1 22.392 25zM2.609 4.167a.527.527 0 0 0-.526.526v17.7a.526.526 0 0 0 .525.525h19.784a.526.526 0 0 0 .525-.525v-17.7a.527.527 0 0 0-.526-.526zm21.349 4.166H1.042a1.042 1.042 0 1 1 0-2.083h22.916a1.042 1.042 0 1 1 0 2.083zM5.208 5.208a1.042 1.042 0 0 1-1.041-1.041V1.042a1.042 1.042 0 1 1 2.083 0v3.125a1.042 1.042 0 0 1-1.042 1.041zm14.583 0a1.041 1.041 0 0 1-1.041-1.041V1.042a1.042 1.042 0 1 1 2.083 0v3.125a1.041 1.041 0 0 1-1.041 1.041z" data-name="パス 35"/>
+    <circle cx="1.042" cy="1.042" r="1.042" data-name="楕円形 40" transform="translate(5.208 18.75)"/>
+    <circle cx="1.042" cy="1.042" r="1.042" data-name="楕円形 41" transform="translate(5.208 14.583)"/>
+    <circle cx="1.042" cy="1.042" r="1.042" data-name="楕円形 42" transform="translate(8.333 18.75)"/>
+    <circle cx="1.042" cy="1.042" r="1.042" data-name="楕円形 43" transform="translate(8.333 14.583)"/>
+    <circle cx="1.042" cy="1.042" r="1.042" data-name="楕円形 44" transform="translate(8.333 10.417)"/>
+    <circle cx="1.042" cy="1.042" r="1.042" data-name="楕円形 45" transform="translate(14.583 18.75)"/>
+    <circle cx="1.042" cy="1.042" r="1.042" data-name="楕円形 46" transform="translate(14.583 14.583)"/>
+    <circle cx="1.042" cy="1.042" r="1.042" data-name="楕円形 47" transform="translate(14.583 10.417)"/>
+    <circle cx="1.042" cy="1.042" r="1.042" data-name="楕円形 48" transform="translate(17.708 14.583)"/>
+    <circle cx="1.042" cy="1.042" r="1.042" data-name="楕円形 49" transform="translate(17.708 10.417)"/>
+    <circle cx="1.042" cy="1.042" r="1.042" data-name="楕円形 50" transform="translate(11.458 18.75)"/>
+    <circle cx="1.042" cy="1.042" r="1.042" data-name="楕円形 51" transform="translate(11.458 14.583)"/>
+    <circle cx="1.042" cy="1.042" r="1.042" data-name="楕円形 52" transform="translate(11.458 10.417)"/>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="log_out" data-name="log out" viewBox="0 0 25.952 28">
+    <defs>
+        <style>
+            .cls-1{fill-rule:evenodd}
+        </style>
+    </defs>
+    <g id="グループ_86" data-name="グループ 86">
+        <g id="グループ_85" data-name="グループ 85">
+            <g id="グループ_84" data-name="グループ 84">
+                <rect id="長方形_197" width="2" height="28" data-name="長方形 197" rx="1"/>
+                <path id="パス_46" d="M1.236 2.545A1.252 1.252 0 0 1 0 1.273 1.255 1.255 0 0 1 1.236 0h12.325A1.252 1.252 0 0 1 14.8 1.273a1.255 1.255 0 0 1-1.236 1.273z" class="cls-1" data-name="パス 46"/>
+                <rect id="長方形_198" width="2" height="14" data-name="長方形 198" rx="1" transform="rotate(-90 14 14)"/>
+                <path id="パス_47" d="M10.229 22.545a1.274 1.274 0 0 1 0-2.545h15.422a1.274 1.274 0 0 1 0 2.545z" class="cls-1" data-name="パス 47" transform="translate(-3.451 -7.273)"/>
+                <path id="パス_48" d="M10.146 11.418l-8.771.139a1.206 1.206 0 0 1-1.233-1.233 1.3 1.3 0 0 1 1.273-1.273l7.518-.119.119-7.518A1.3 1.3 0 0 1 10.324.142a1.206 1.206 0 0 1 1.233 1.233l-.139 8.771a1.3 1.3 0 0 1-1.272 1.272z" class="cls-1" data-name="パス 48" transform="rotate(-45 21.703 -4.598)"/>
+            </g>
+        </g>
+    </g>
+</svg>

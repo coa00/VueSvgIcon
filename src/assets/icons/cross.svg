@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 12.707 12.707">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#000}
+        </style>
+    </defs>
+    <g id="cross" transform="translate(.354 .354)">
+        <path id="線_33" d="M12 0L0 12" class="cls-1" data-name="線 33"/>
+        <path id="線_34" d="M0 0l12 12" class="cls-1" data-name="線 34"/>
+    </g>
+</svg>

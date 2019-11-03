@@ -1,6 +1,6 @@
 # svg2icon
 
-(demo)[https://storybook-static.coa00.now.sh]
+[demo](https://storybook-static.coa00.now.sh)
 
 ## Project setup
 ```

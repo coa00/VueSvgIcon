@@ -1,5 +1,7 @@
 # svg2icon
 
+(demo)[https://storybook-static.coa00.now.sh]
+
 ## Project setup
 ```
 yarn
